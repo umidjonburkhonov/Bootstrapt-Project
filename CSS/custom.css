@@ -1,0 +1,161 @@
+@media (min-width: 1400px) {
+  .container {
+    max-width: 1140px;
+  }
+}
+
+/*  Text colors */
+
+.text-dark-custom {
+  color: #3a3a47 !important;
+}
+
+.text-grey-custom {
+  color: #5c5c5c !important;
+}
+
+.text-light-grey-custom {
+  color: #818198 !important;
+}
+
+.text-dark-blue-custom {
+  color: #383b61 !important;
+}
+
+.text-blue-custom {
+  color: #3498db !important;
+}
+
+.text-green-custom {
+  color: #21bf73 !important;
+}
+
+/* Baground colors */
+.bg-primary-custom {
+  background-color: #f0f5f9 !important;
+}
+
+/* Forms and buttons styles */
+.btn {
+  padding: 0 20px;
+  line-height: 38px;
+}
+
+.btn-blue-custom {
+  border: 2px solid #3498db;
+  color: #3498db;
+}
+
+.btn-blue-custom:hover {
+  background-color: #3894db;
+  color: #ffffff;
+}
+
+.btn-success-custom {
+  border: 2px solid #21bf73;
+  background-color: #21bf73;
+  color: #ffffff;
+}
+
+/* .btn-success-custom:hover {
+  color: #ffffff;
+} */
+
+/* Form control custom */
+.form-control-custom {
+  color: #222222;
+  font-family: "Montserrat";
+  font-size: 14px;
+  font-weight: 500;
+  height: 45px;
+  border: 0;
+  border-radius: 5px 0 0 5px;
+  background-color: #f0f5f8;
+  outline: none;
+  padding-left: 20px;
+}
+
+/*  */
+/* Navigation menu */
+.navbar-brand {
+  font-family: "Montserrat";
+  font-weight: 500;
+}
+
+.navbar-light .navbar-nav .nav-link.active,
+.navbar-light .navbar-nav .nav-link,
+.navbar-light .navbar-nav .nav-link {
+  font-family: "Montserrat";
+  font-weight: 500;
+  font-size: 14px;
+  padding: 10px 20px;
+}
+
+.navbar-light .navbar-nav .nav-link.btn {
+  padding: 0 20px;
+}
+
+/* Home */
+
+.home {
+  padding: 150px 0 100px 0;
+}
+
+/* About */
+
+.about__card-1 {
+  background-color: #fff2e5;
+}
+
+.about__card-2 {
+  background-color: #f8f9fa;
+}
+
+.about__card-3 {
+  background-color: #f0f5f9;
+}
+
+.about__card-image {
+  width: 80px;
+}
+
+/* Features */
+
+.features__container {
+  background-color: #f0f5f9;
+}
+
+/* Results */
+
+.results__card-image {
+  width: 80px;
+}
+
+/* Reviews */
+
+.reviews__conatiner {
+  padding: 100px 50px;
+  background-color: #f0f5f9;
+}
+
+/* Pricing */
+
+.pricing__card {
+  background-color: #f0f5f9;
+}
+
+.pricing__card img {
+  width: 120px;
+}
+
+/* FAQ */
+
+.faq-container {
+  padding: 100px 50px;
+  background-color: #f0f5f9;
+}
+
+.faq-button {
+  background-color: #f0f5f9;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.03);
+}
